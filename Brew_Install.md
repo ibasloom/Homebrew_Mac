@@ -23,4 +23,9 @@ brew --version
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
+### Try to install VLC Using Brew
+```
+brew install --cask vlc
+```
+
 [Go Back To HOme Page](https://github.com/ibasloom/Homebrew_Mac/blob/main/README.md)
