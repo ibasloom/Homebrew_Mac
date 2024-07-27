@@ -28,4 +28,14 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 brew install --cask vlc
 ```
 
+### Uninstalltion Of VLC
+
+```
+brew uninstall --cask vlc
+```
+```
+brew cleanup
+```
+
+
 [Go Back To HOme Page](https://github.com/ibasloom/Homebrew_Mac/blob/main/README.md)
