@@ -43,3 +43,5 @@ export PATH="/usr/local/bin:$PATH"
 ```
 export PATH="/opt/homebrew/bin:$PATH"
 ```
+
+[Go Back To HOme Page](https://github.com/ibasloom/Homebrew_Mac/blob/main/README.md)
